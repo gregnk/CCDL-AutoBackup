@@ -1,6 +1,6 @@
 This script will automatically clone on pull projects related to CrossCode modding to user's local pc
 
-**Usage**
+### Usage
 
 	py GHAutoBackup.py [-debug]
 	
