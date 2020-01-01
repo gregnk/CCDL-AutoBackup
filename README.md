@@ -1,6 +1,6 @@
 This script will automatically clone on pull projects related to CrossCode modding to user's local pc
 
-**It is highly recommended for all users involved to run this script at once every month to avoid potential**
+**It is highly recommended for all users involved to run this script at once every month to avoid potential code loss**
 
 ### Usage
 
