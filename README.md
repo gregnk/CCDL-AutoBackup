@@ -1,1 +1,1 @@
-This script script will automatically backup all projects related to CrossCode modding
+This script will automatically backup projects related to CrossCode modding
