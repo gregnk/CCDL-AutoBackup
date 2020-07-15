@@ -32,3 +32,4 @@ Repo https://github.com/WatDuhHekBro/cc-spin-to-win
 Repo https://github.com/2767mr/CCTAS
 Repo https://github.com/keanuplayz/CCEnhancedPvP
 Repo https://github.com/2hh8899/ArcaneLab
+Repo https://github.com/dmitmel/crosscode.info
